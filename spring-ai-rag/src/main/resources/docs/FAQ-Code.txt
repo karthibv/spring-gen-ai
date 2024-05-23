@@ -1,0 +1,20 @@
+
+1. What is XMVW UI frameworks?
+XMVW UI framework is just a simple framework that is used to create a web application. It is simple to understand by comparing other UI frameworks
+
+XMVW provides user interface to developers & designers. they can create by drag and drop with out much code writing. its super simple low code platform and its best framework for beginners.
+
+
+2. What is the difference between XMWV and other frameworks?
+XMVW can understand by any normal person with out knowing the technology. they can create the applications quickly adn deploy.
+they just need creativity to create the applications. its super simple low code platform and its best framework for beginners.
+
+3. What is XMVW Mobile ?
+its a mobile application development platform. its a simple low code platform to create mobile applications. its best for beginners.
+
+4. what is XMVW desktop?
+its a desktop application development platform. its a simple low code platform to create desktop applications. its best for beginners.
+
+5. What is XMVW cloud?
+its a cloud platform to deploy the applications. its a simple low code platform to deploy the applications. its best for beginners.
+

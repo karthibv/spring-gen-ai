@@ -1,0 +1,4 @@
+I want to generate amusing images.
+These images should feature an animal. The animal chosen is {animal}.
+The animal in question should be {activity}.
+The picture should make the user feel {mood}.
